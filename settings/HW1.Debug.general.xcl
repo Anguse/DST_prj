@@ -1,0 +1,15 @@
+"D:\Skola\Datorteknik\IAR\arm\bin\armproc.dll" 
+
+"D:\Skola\Datorteknik\IAR\arm\bin\armjlink2.dll" 
+
+"C:\Users\Linus Larsson\Google Drive\DST\HW\Debug\Exe\HW1.out" 
+
+--plugin "D:\Skola\Datorteknik\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\Skola\Datorteknik\IAR\arm\config\debugger\Atmel\SAM3XA.dmac" 
+
+--macro "C:\Users\Harald\Google Drive\Studier\DST\HW\arduino_due_x_sram.mac" 
+
+
+
+
