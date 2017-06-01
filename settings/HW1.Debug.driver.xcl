@@ -6,7 +6,7 @@
 
 "-p" 
 
-"D:\Skola\Datorteknik\IAR\arm\CONFIG\debugger\Atmel\ATSAM3X8E.ddf" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\CONFIG\debugger\Atmel\ATSAM3X8E.ddf" 
 
 "--semihosting" 
 

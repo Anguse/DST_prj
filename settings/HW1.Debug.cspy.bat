@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\Skola\Datorteknik\IAR\common\bin\cspybat" -f "C:\Users\Linus Larsson\Google Drive\DST\HW\settings\HW1.Debug.general.xcl" --backend -f "C:\Users\Linus Larsson\Google Drive\DST\HW\settings\HW1.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\common\bin\cspybat" -f "D:\Harald\Google Drive\Studier\DST\DST_prj\settings\HW1.Debug.general.xcl" --backend -f "D:\Harald\Google Drive\Studier\DST\DST_prj\settings\HW1.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\Skola\Datorteknik\IAR\common\bin\cspybat" -f "C:\Users\Linus Larsson\Google Drive\DST\HW\settings\HW1.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Linus Larsson\Google Drive\DST\HW\settings\HW1.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\common\bin\cspybat" -f "D:\Harald\Google Drive\Studier\DST\DST_prj\settings\HW1.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\Harald\Google Drive\Studier\DST\DST_prj\settings\HW1.Debug.driver.xcl" 
 
 @echo off 
 :end
